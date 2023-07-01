@@ -135,8 +135,8 @@ params:
     socialLinks:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
-          url: www.linkedin.com/in/yogahariharanr
-        - icon: fab fa-regular fa-envelope
+          url: https://linkedin.com/in/yogahariharanr
+        - icon: fab fa-envelope
           email: yogahariharanr@gmail.com
         - icon: fab fa-github
           url: https://github.com/yogahariharan
