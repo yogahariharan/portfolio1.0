@@ -136,18 +136,13 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: https://linkedin.com/in/yogahariharanr
-        - icon: /envelope-regular.svg
-          email: yogahariharanr@gmail.com
         - icon: fab fa-github
           url: https://github.com/yogahariharan
         - icon: fab fa-twitter
           url: https://twitter.com/Hariharan_offl
-          
-          
-
-      # customIcons:
-      #   - icon: /fav.png
-      #     url: "https://example.com"
+      customIcons:
+        - icon: /envelope-regular.svg
+          email: yogahariharanr@gmail.com
 
   # About
   about:
