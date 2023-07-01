@@ -150,9 +150,9 @@ params:
     title: "About Me"
     image: "/images/me.png"
     content: |-
-      I am a software developer with a passion for web development. I have a background in computer science and mathematics, and I have a strong interest in the intersection of technology and art. I am currently working as a software developer at [example org.](https://example.com) in San Francisco, CA. 
+      "I am a Cyber Security enthusiat with a passion for securing data. I have a background in computer science and mathematics, and I have a strong interest in the Cyber security and hacking practises. I am currently pursuing B.sc Computer Science at Sri Krishna Adithya College of Arts and Science in Coimbatore, Tamilnadu. 
 
-      I am currently working on a project that will be used to help people find the best way to get around the city.
+      I am currently working on a project that will be used to help people connect with others easily by having a multi authentication. That helps for imporving the data privacy and security"
     skills:
       enable: true
       title: "Here are a few technologies I've been working with recently:"
