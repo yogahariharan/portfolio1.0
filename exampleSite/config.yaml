@@ -122,7 +122,7 @@ params:
     title: "Yogahariharan."
     subtitle: "I secure things"
     content: "Highly motivated and diligent student with a strong passion for cyber security."
-    image: /images/profile.jpg
+    image: /images/pro.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
