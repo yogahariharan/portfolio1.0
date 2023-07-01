@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://yogahariharan.netlify.app/"
 languageCode: "en-us"
-title: "Hugo Profile"
+title: "Profile"
 theme: hugo-profile
 
 outputs:
@@ -119,8 +119,8 @@ params:
     enable: true
     intro: "Hi, my name is"
     title: "Yogahariharan."
-    subtitle: "I build things for the web"
-    content: "A passionate web app developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+    subtitle: "I secure things"
+    content: "Highly motivated and diligent student with a strong passion for cyber security."
     image: /images/hero.svg
     bottomImage:
       enable: true
