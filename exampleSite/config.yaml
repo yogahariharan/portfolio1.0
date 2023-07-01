@@ -1,4 +1,5 @@
-baseURL: "https://yogahariharan.netlify.app/"
+baseURL: "yogahariharanr@gmail.com"
+# baseURL: "https://yogahariharan.netlify.app/"
 languageCode: "en-us"
 title: "Profile"
 theme: hugo-profile
@@ -135,8 +136,8 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: www.linkedin.com/in/yogahariharanr
-        - icon: fab fa-envelope
-          url: yogahariharanr@gmail.com
+        - icon: fa-envelope-o
+          email: yogahariharanr@gmail.com
         - icon: fab fa-github
           url: https://github.com/yogahariharan
         - icon: fab fa-twitter
