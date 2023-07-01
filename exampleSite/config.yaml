@@ -128,8 +128,8 @@ params:
     button:
       enable: true
       name: "Resume"
-      image: /images/resum.pdf
-      download: true
+      url: "https://www.canva.com/design/DAFnMI6Y_Rc/cQ8xjQMYnlxLDPldQQ8AwQ/view"
+      download: false
       newPage: false
     socialLinks:
       fontAwesomeIcons:
