@@ -128,7 +128,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://www.canva.com/design/DAFnMI6Y_Rc/cQ8xjQMYnlxLDPldQQ8AwQ/view?utm_content=DAFnMI6Y_Rc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
+      image: /images/resum.pdf
       download: true
       newPage: false
     socialLinks:
