@@ -136,7 +136,7 @@ params:
       fontAwesomeIcons:
         - icon: fab fa-linkedin
           url: www.linkedin.com/in/yogahariharanr
-        - icon: fa-envelope-o
+        - icon: fab fa-regular fa-envelope
           email: yogahariharanr@gmail.com
         - icon: fab fa-github
           url: https://github.com/yogahariharan
