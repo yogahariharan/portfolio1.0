@@ -140,9 +140,9 @@ params:
           url: https://github.com/yogahariharan
         - icon: fab fa-twitter
           url: https://twitter.com/Hariharan_offl
-      customIcons:
-        - icon: /envelope-regular.svg
-          email: yogahariharanr@gmail.com
+      # customIcons:
+      #   - icon: /envelope-regular.svg
+      #     email: yogahariharanr@gmail.com
 
   # About
   about:
